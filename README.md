@@ -13,3 +13,8 @@ cdk bootstrap aws://ACCOUNT-NUMBER-1/REGION-1
 cdk synth
 cdk deploy
 ```
+
+## Cleanup
+```
+cdk destroy
+```
